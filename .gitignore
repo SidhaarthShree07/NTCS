@@ -67,11 +67,7 @@ cfg/
 *.md
 !README.md
 
-# Frontend (external repo)
-frontend/
-frontend/build/
-frontend/node_modules/
-frontend/.env
+# Frontend (external repo - linked as submodule)
 
 # PowerPoint/PDF
 *.pdf
