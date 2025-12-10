@@ -1,3 +1,4 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/SidhaarthShree07/NTCS-CALIBRATION.git
+    branch = main
